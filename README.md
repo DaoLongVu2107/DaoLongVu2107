@@ -25,3 +25,5 @@ Feel free to explore my repositories and reach out for collaboration or just to 
 
 ## ⚡ Chart 
 ![Alt Text](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoLongVu2107&theme=gruvbox)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaoLongVu2107&theme=dark)](https://git.io/streak-stats)
