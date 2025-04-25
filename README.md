@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, scala
 - **Others**: Swagger, CI/CD, Microservices
 
 ## 🌟 What I'm Working On
-- Developing full-stack applications with **NestJS** and **Angular** to deliver seamless user experiences.
+- Developing full-stack applications with **NestJS/NodeJs** and **Angular** to deliver seamless user experiences.
 - Exploring **microservices** architecture with NestJS for scalable backend systems.
 - Contributing to open-source projects and sharing knowledge through tutorials and code.
 
