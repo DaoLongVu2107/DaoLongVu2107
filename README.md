@@ -6,8 +6,8 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, scala
 ## 🔧 Technologies & Tools
 - **Backend**: NestJS, Node.js, TypeScript, REST APIs
 - **Frontend**: Angular, TypeScript, Angular Material
-- **Databases**: PostgreSQL, MongoDB, TypeORM, MySql
-- **Tools**: Git, Docker, Webpack, Nx, Jest
+- **Databases**: PostgreSQL, TypeORM, MySQL
+- **Tools**: Git, Docker
 - **Others**: Swagger, CI/CD, Microservices
 
 ## 🌟 What I'm Working On
