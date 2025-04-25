@@ -22,3 +22,5 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, scala
 ## ⚡ Fun Fact
 
 Feel free to explore my repositories and reach out for collaboration or just to chat about tech! 🚀
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoLongVu2107&theme=gruvbox
