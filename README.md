@@ -24,6 +24,6 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, scala
 Feel free to explore my repositories and reach out for collaboration or just to chat about tech! 🚀
 
 ## ⚡ Chart 
-![Alt Text](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoLongVu2107&theme=gruvbox)
+![Alt Text](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoLongVu2107&theme=gruvbox) [![GitHub Streak](https://streak-stats.demolab.com/?user=DaoLongVu2107&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaoLongVu2107&theme=dark)](https://git.io/streak-stats)
+
