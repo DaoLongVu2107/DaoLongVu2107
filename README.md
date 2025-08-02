@@ -63,7 +63,6 @@
 
 - 📧 **Email:** [daolongvu86@gmail.com](mailto:daolongvu86@gmail.com)
 - 📱 **Phone:** 0985034347
-- 💼 **LinkedIn:** _[Add your LinkedIn link here]_
 
 ---
 
