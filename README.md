@@ -1,79 +1,68 @@
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12628796?v=4" width="120" alt="Dao Long Vu Avatar" style="border-radius:50%;">
+  <img src="https://github.com/DaoLongVu2107.png" width="110" alt="Dao Long Vu" />
 </p>
 
-<h1 align="center">Hi, I'm Dao Long Vu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+<h1 align="center">Dao Long Vu</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | TypeScript Enthusiast | Tech Explorer</b>
+  <b>Full-Stack Developer · NestJS &amp; Angular · Vietnam</b>
 </p>
 
 <p align="center">
-  <a href="mailto:daolongvu86@gmail.com"><img src="https://img.shields.io/badge/Email-daolongvu86@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/DaoLongVu2107"><img src="https://img.shields.io/github/followers/DaoLongVu2107?label=Follow&style=social"></a>
-  <img src="https://img.shields.io/badge/Code%20with-TypeScript-3178c6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-NestJS-red?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?logo=angular&logoColor=white" />
+  <a href="mailto:daolongvu86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/DaoLongVu2107?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
----
+## About
 
-## 🚀 About Me
+I'm a full-stack developer building web applications in TypeScript, from NestJS backends to Angular frontends.
 
-🙋‍♂️ Hi, I'm **Dao Long Vu**, a passionate Full-Stack Developer based in Vietnam.<br>
-💻 I love building modern, high-performance web applications with clean, maintainable code.<br>
-🌱 Always learning new technologies and best practices, especially around scalable backend and beautiful frontends.<br>
-🤝 Open to collaboration, code review, and sharing knowledge with the dev community!
+- **Backend:** REST APIs and microservices with NestJS, TypeORM and PostgreSQL/MySQL, documented with Swagger
+- **Frontend:** Angular and Angular Material, with a focus on maintainable component design
+- **Delivery:** Docker and CI/CD pipelines with GitHub Actions
+- **Side work:** data-driven static sites and open-source tooling
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-| **Backend**  | **Frontend**   | **Database**         | **Tools & DevOps**    | **Others**      |
-|:------------:|:--------------:|:--------------------:|:---------------------:|:---------------:|
-| NestJS       | Angular        | PostgreSQL           | Git                   | Swagger         |
-| Node.js      | Angular Material| MySQL                | Docker                | Microservices   |
-| TypeScript   | HTML/CSS/JS    | TypeORM              | CI/CD (Github Actions)| REST API        |
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
----
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=flat&logo=angular&logoColor=white)
+![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat&logo=vitepress&logoColor=white)
 
-## 🏗️ Current Focus
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- 🚧 Building full-stack apps with **NestJS + Angular** for seamless user experience.
-- 🧩 Exploring microservices architecture for robust, scalable backends.
-- 📚 Contributing to open-source and writing tutorials.
+**DevOps &amp; Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+## Featured Projects
 
-## 📈 GitHub Stats
+| Project | Description | Stack |
+|---|---|---|
+| [Arknights Wiki (Vietnamese)](https://github.com/DaoLongVu2107/Test) | Unofficial Vietnamese wiki generated from game data: operators, items, enemies, stages and a full story reader, with a VI/EN language toggle and a JSON-based translation workflow. Auto-deployed on every push. | VitePress · Node.js · Cloudflare Workers |
+
+## GitHub Activity
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoLongVu2107&theme=gruvbox" alt="profile summary"/>
+  <img src="https://streak-stats.demolab.com/?user=DaoLongVu2107&hide_border=true" alt="GitHub streak" />
 </p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DaoLongVu2107&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email:** [daolongvu86@gmail.com](mailto:daolongvu86@gmail.com)
-- 📱 **Phone:** 0985034347
-
----
-
-## 🤩 Fun Facts
-
-- 🏆 I believe in "Clean Code, Clean Mind"!
-- 🎵 I code better with music and a cup of coffee.
-- 🚀 Always ready for new challenges and creative ideas!
-
----
 
 <p align="center">
-  <em>Feel free to explore my repositories and reach out for collaboration or just to chat about tech! 🚀</em>
+  <sub>Open to collaboration and new opportunities. Feel free to reach out by <a href="mailto:daolongvu86@gmail.com">email</a>.</sub>
 </p>
