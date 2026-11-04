@@ -20,7 +20,7 @@ I'm a full-stack developer building web applications in TypeScript, from NestJS 
 - **Backend:** REST APIs and microservices with NestJS, TypeORM and PostgreSQL/MySQL, documented with Swagger
 - **Frontend:** Angular and Angular Material, with a focus on maintainable component design
 - **Delivery:** Docker and CI/CD pipelines with GitHub Actions
-- **Side work:** data-driven static sites and open-source tooling
+- **Side work:** desktop tools with OCR and LLM integration, data-driven static sites
 
 ## Tech Stack
 
@@ -55,6 +55,7 @@ I'm a full-stack developer building web applications in TypeScript, from NestJS 
 
 | Project | Description | Stack |
 |---|---|---|
+| [Screen Translator](https://github.com/DaoLongVu2107/screen_translate) ![stars](https://img.shields.io/github/stars/DaoLongVu2107/screen_translate?style=flat&label=%E2%98%85) | Real-time screen translator for Windows: select any area (game dialogue, subtitles, chat), text is read with OCR and translated live as it changes. Supports Google, DeepL and AI engines (Claude, ChatGPT, Gemini, Grok) with automatic fallback and context-aware translation. Ships as a single `.exe`. [Download](https://github.com/DaoLongVu2107/screen_translate/releases/latest) | Python · OCR · LLM APIs |
 | [Arknights Wiki (Vietnamese)](https://github.com/DaoLongVu2107/Test) | Unofficial Vietnamese wiki generated from game data: operators, items, enemies, stages and a full story reader, with a VI/EN language toggle and a JSON-based translation workflow. Auto-deployed on every push. | VitePress · Node.js · Cloudflare Workers |
 
 ## GitHub Activity
